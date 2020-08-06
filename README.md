@@ -1,16 +1,28 @@
-# online_learning_app
+# 🔥🔥 Flutter Online Learning App Concept [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)  [![Twitter Follow](https://img.shields.io/twitter/follow/dev_femi.svg?style=social)](https://twitter.com/dev_femi)
+Flutter representation of an Online Learning App Concept i found on Dribbble.
 
-A new Flutter project.
+Star⭐ the repo if you like what you see😉.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<a href="ss/app.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 
-A few resources to get you started if this is your first Flutter project:
+[Link to Mockup](https://dribbble.com/shots/13933354-Online-Courses-App-Design/attachments/5544152?mode=media)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dev_femi.svg?style=social)](https://twitter.com/dev_femi)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Requirements
+* Any Operating System (ie. MacOS X, Linux, Windows)
+* Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+* A little knowledge of Dart and Flutter
+
+
+## 📸 DEMO
+
+<img src="ss/demo.gif"/>
+
+
+## 🤓 Author(s)
+**Femi Bolaji** [![Twitter Follow](https://img.shields.io/twitter/follow/dev_femi.svg?style=social)](https://twitter.com/dev_femi)
+
+## 🔖 LICENCE
+[WTFPL](https://opensource.org/licenses/MIT)

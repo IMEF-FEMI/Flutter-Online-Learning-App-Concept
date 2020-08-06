@@ -74,13 +74,14 @@ class _HomeScreenState extends State<HomeScreen> {
             top: 170,
             left: 0,
             child: Container(
-              padding: EdgeInsets.only(top: 25),
+              padding: EdgeInsets.only(top: 25, left: 5),
               height: MediaQuery.of(context).size.height,
               width: MediaQuery.of(context).size.width,
               decoration: BoxDecoration(
                   borderRadius: BorderRadius.vertical(top: Radius.circular(40)),
                   color: Color(0xfff1f1f1)),
               child: ListView(
+                
                 children: <Widget>[
                   Padding(
                     padding: const EdgeInsets.symmetric(
