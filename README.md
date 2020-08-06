@@ -25,4 +25,4 @@ Star⭐ the repo if you like what you see😉.
 **Femi Bolaji** [![Twitter Follow](https://img.shields.io/twitter/follow/dev_femi.svg?style=social)](https://twitter.com/dev_femi)
 
 ## 🔖 LICENCE
-[WTFPL](https://opensource.org/licenses/MIT)
+[MIT](https://opensource.org/licenses/MIT)
